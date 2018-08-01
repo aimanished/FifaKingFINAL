@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385206353046",
+    "firebase_url": "https://fifaking-f2147.firebaseio.com",
+    "project_id": "fifaking-f2147",
+    "storage_bucket": "fifaking-f2147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385206353046:android:6e4946142c8c4ab6",
+        "android_client_info": {
+          "package_name": "com.example.user.fifaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385206353046-i14sq2905runf5jri18qqnjrdv1qmoqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fifaking",
+            "certificate_hash": "63350286d1bb62a66743a712b4ae44035d642dbb"
+          }
+        },
+        {
+          "client_id": "385206353046-1oq18if1qu4nt7pkgp7t6i6kev7n2un4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJi1Q8zrlYfvby5FRBHuk4gcvw59dkWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385206353046-1oq18if1qu4nt7pkgp7t6i6kev7n2un4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

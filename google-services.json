@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "926481411131",
+    "firebase_url": "https://fifaking-faa06.firebaseio.com",
+    "project_id": "fifaking-faa06",
+    "storage_bucket": "fifaking-faa06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926481411131:android:6e4946142c8c4ab6",
+        "android_client_info": {
+          "package_name": "com.example.user.fifaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926481411131-siuf5t5fkgsb29md4c2u2afrmgh34ef5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxZ54g5_9C6DwGh8UHDc7BBQxzyNT7N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
