@@ -22,6 +22,7 @@
                 android:id="@+id/imageView"
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
+                android:adjustViewBounds="true"
                 android:src="@mipmap/ic_launcher"
                 app:zoomage_animateOnReset="true"
                 app:zoomage_autoCenter="true"

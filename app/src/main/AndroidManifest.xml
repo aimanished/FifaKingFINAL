@@ -3,6 +3,8 @@
     package="com.example.user.fifaking">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -20,7 +22,8 @@
         </activity>
         <activity android:name=".Home" />
         <activity android:name=".SecondActivity" />
-        <activity android:name=".Shooting"></activity>
+        <activity android:name=".Shooting" />
+        <activity android:name=".Donation"></activity>
     </application>
 
 </manifest>
